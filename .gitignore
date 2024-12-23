@@ -1,0 +1,11 @@
+*.swp
+*.tmp
+*.log
+
+coverage/
+node_modules/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
+.terraform/
